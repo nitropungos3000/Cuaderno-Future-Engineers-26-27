@@ -1,7 +1,7 @@
 # WRO 26/27 - Future Engineers 🤖
 This team is made up of Adrián Ordóñez Hernández, Lorenzo Manuel Latorre Martínez, Guillermo Cuesta Luque and Irene Reyes Molina, students of 4º of ESO in the highschool IES Az-Zait. In this digital notebook can we see all the information that is assigned to our robot, in which we will include objectives to follow, electronic, mechanical, problems detected and a lot of more sections.
 
-First of all, we must know what the challenge consists of. The objective tells us that we must attempt to give three laps to a square. At the end of the tour, it must stop for 15 seconds. 
+First of all, we must know what the challenge consists of. The objective tells us that we must attempt to give three laps to a square. At the end of the tour, it must stop for 15 seconds. Next, you must complete the laps again, but this time dodging a series of different obstacles—either red or green. In accordance with the regulations, you must pass the green obstacle on the left and the red obstacle on the right.
 
 
-En primer lugar debemos saber en que consiste el reto propuesto. El objetivo nos dice que debemos intentar dar tres vueltas a un cuadrado. Al final del recorrido, debe pararse durante al menos 15 segundos. Posteriormente, deberá realizar tambien las vueltas, pero en esta ronda esquivando una serie de obstáculos diferentes, de color rojo o verde. Siguiendo las indicaciones de la normativa, se deberá esquivar el obstáculo de color verde por la izquierda y el obstáculo de color rojo por la derecha.
+
