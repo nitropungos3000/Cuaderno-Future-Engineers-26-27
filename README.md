@@ -7,5 +7,5 @@ First of all, we must know what the challenge consists of. The objective tells u
 ## 3D design and printing
 ## Mechanics
 ## Other
-## Issues detected
+## Problems detected
 ## Programming
