@@ -5,13 +5,19 @@ First of all, we must know what the challenge consists of. The objective tells u
 
 ## Electronics
 
+For more information [click here](https://github.com/nitropungos3000/Cuaderno-Future-Engineers-26-27/blob/main/Electronics/Electronics.md)
 ## 3D design and printing
 
+For more information click here:
 ## Mechanics
 
+For more information click here:
 ## Other
 
+For more information click here:
 ## Problems detected
 
+For more information click here:
 ## Programming
 
+For more information click here:
