@@ -8,16 +8,16 @@ First of all, we must know what the challenge consists of. The objective tells u
 For more information  [click here](https://github.com/nitropungos3000/Cuaderno-Future-Engineers-26-27/blob/main/Electronics/Electronics.md)
 ## 3D design and printing
 
-For more information click here:
+For more information [click here](https://github.com/nitropungos3000/Cuaderno-Future-Engineers-26-27/tree/main/Impresi%C3%B3n%20y%20dise%C3%B1os%203D)
 ## Mechanics
 
-For more information click here:
+For more information [click here](https://github.com/nitropungos3000/Cuaderno-Future-Engineers-26-27/tree/main/Mechanics)
 ## Other
 
-For more information click here:
+For more information [click here](https://github.com/nitropungos3000/Cuaderno-Future-Engineers-26-27/tree/main/Others)
 ## Problems detected
 
-For more information click here:
+For more information [click here](https://github.com/nitropungos3000/Cuaderno-Future-Engineers-26-27/tree/main/Problems%20detected)
 ## Programming
 
-For more information click here:
+For more information [click here](https://github.com/nitropungos3000/Cuaderno-Future-Engineers-26-27/tree/main/Programming)
